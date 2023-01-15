@@ -8,8 +8,8 @@
 
 In order to play the game, the user controls the avatar using the A and D keys to move left and right. To avoid falling, which eventually will close your score and end the current game, the user should try to land on the wood planks. When the user reaches a minimum score of 1500 points, new obstacles are generated and the player should try to avoid it. 
 
-<img src="images/start.png" width=190>
 <span>
+    <img src="images/start.png" width=190>
     <img src="images/wow.png" width=190>
     <img src="images/gameover.png" width=190>
 </span>
