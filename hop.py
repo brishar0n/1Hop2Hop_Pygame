@@ -38,11 +38,10 @@ font_big = pygame.font.SysFont('Arial', 21)
 avatar_image = pygame.image.load('images/avatar.png').convert_alpha() # loading in the images
 bg_image = pygame.image.load('images/bg.png').convert_alpha()
 platform_image = pygame.image.load('images/wood.png').convert_alpha()
-#bird spritesheet
 bird_sheet_img = pygame.image.load('images/bird.png').convert_alpha()
 bird_sheet = SpriteSheet(bird_sheet_img)
 
-def draw_text(text, font, text_col, x, y): # function for outputting text onto the window
+def draw_text(text, font, text_col, x, y): # function for outputting text onto the screen
 	img = font.render(text, True, text_col)
 	window.blit(img, (x, y))
 
