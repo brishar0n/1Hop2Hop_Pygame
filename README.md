@@ -17,7 +17,7 @@ In order to play the game, the user controls the avatar using the A and D keys t
 #
 
 ## Demo Video 👩🏻‍💻
-https://shorturl.at/bmsEP
+https://drive.google.com/file/d/1B4gKvGcfh4oZcP94korPZpqMv3LDrpLm/view?usp=sharing
 
 ## Libraries and Modules Used 📖
 - Pygame: library filled with Python modules and functions (like sprites) designed for making 2D video games.
